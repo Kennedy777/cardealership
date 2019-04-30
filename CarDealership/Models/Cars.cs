@@ -1,9 +1,9 @@
-using System;
+
 using System.Collections.Generic;
 
-namespace CarDealership.Models
+namespace CarDealership.Solution.Models
 {
-public class Program
+public class Car
  {
    public static void Main()
   {
